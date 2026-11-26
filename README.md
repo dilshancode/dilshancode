@@ -21,15 +21,11 @@
 
 ## 01 // About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/dilshancode/dilshancode/main/assets/cyber-terminal.svg" alt="Cybersecurity Terminal" />
-
 Software developer and cybersecurity enthusiast focused on building secure, scalable, and modern applications across backend, web, and mobile.
 
 - **Currently building** full-stack and mobile solutions with **Java, Spring Boot, Flutter, and React**
 - **Exploring** cybersecurity fundamentals, **Kali Linux**, network analysis, and clean system architecture
 - **Collaborating** with **[@SriLionsBrightMinds](https://github.com/SriLionsBrightMinds)**
-
-<br clear="right" />
 
 <img src="https://raw.githubusercontent.com/dilshancode/dilshancode/main/assets/cyber-divider.svg" width="100%" alt="" />
 
