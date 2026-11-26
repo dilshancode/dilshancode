@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p>
-  <a href="https://github.com/dilshancode"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=00F5A0&center=true&vCenter=true&width=680&height=40&lines=Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Flutter+%E2%80%A2+React+%E2%80%A2+Linux;Building+secure%2C+scalable+%26+modern+applications;Exploring+Cybersecurity+%26+System+Architecture" alt="Typing SVG" /></a>
+  <a href="https://github.com/dilshancode"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=00F5A0&center=true&vCenter=true&width=720&height=40&lines=root%40dilshancode%3A~%23+.%2Finit_security_stack.sh;%3E+Loading%3A+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Flutter+%E2%80%A2+React;%3E+Scanning%3A+Kali+Linux+%E2%80%A2+Wireshark+%E2%80%A2+Burp+Suite+%E2%80%A2+Cisco" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social & Profile Badges -->
@@ -17,17 +17,21 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/dilshancode/dilshancode/main/assets/cyber-divider.svg" width="100%" alt="" />
 
 ## 01 // About Me
+
+<img align="right" width="340" src="https://raw.githubusercontent.com/dilshancode/dilshancode/main/assets/cyber-terminal.svg" alt="Cybersecurity Terminal" />
 
 Software developer and cybersecurity enthusiast focused on building secure, scalable, and modern applications across backend, web, and mobile.
 
 - **Currently building** full-stack and mobile solutions with **Java, Spring Boot, Flutter, and React**
-- **Exploring** cybersecurity fundamentals, **Linux** environments, and clean system architecture
+- **Exploring** cybersecurity fundamentals, **Kali Linux**, network analysis, and clean system architecture
 - **Collaborating** with **[@SriLionsBrightMinds](https://github.com/SriLionsBrightMinds)**
 
----
+<br clear="right" />
+
+<img src="https://raw.githubusercontent.com/dilshancode/dilshancode/main/assets/cyber-divider.svg" width="100%" alt="" />
 
 ## 02 // Tech Stack & Tools
 
@@ -64,7 +68,7 @@ Software developer and cybersecurity enthusiast focused on building secure, scal
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/dilshancode/dilshancode/main/assets/cyber-divider.svg" width="100%" alt="" />
 
 ## 03 // Featured Projects
 
@@ -82,22 +86,20 @@ Software developer and cybersecurity enthusiast focused on building secure, scal
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/dilshancode/dilshancode/main/assets/cyber-divider.svg" width="100%" alt="" />
 
 ## 04 // GitHub Analytics
 
 <div align="center">
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dilshancode&show_icons=true&hide_rank=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=00f5a0&icon_color=00f5a0&text_color=c9d1d9&count_private=true" alt="Dilshan's GitHub Stats" />&nbsp;
-  <img height="165" src="https://streak-stats.demolab.com?user=dilshancode&background=0d1117&border=30363d&stroke=30363d&ring=00f5a0&fire=00f5a0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f5a0&sideLabels=c9d1d9&dates=8b949e" alt="Dilshan's GitHub Streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=dilshancode&background=0d1117&border=30363d&stroke=30363d&ring=00f5a0&fire=00f5a0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f5a0&sideLabels=c9d1d9&dates=8b949e" alt="Dilshan's GitHub Streak" />&nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshancode&layout=compact&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=00f5a0&text_color=c9d1d9" alt="Top Languages" />
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshancode&layout=compact&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=00f5a0&text_color=c9d1d9" alt="Top Languages" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/dilshancode/dilshancode/main/assets/cyber-divider.svg" width="100%" alt="" />
 
 ## 05 // Contribution Activity
 
@@ -109,7 +111,7 @@ Software developer and cybersecurity enthusiast focused on building secure, scal
   </picture>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/dilshancode/dilshancode/main/assets/cyber-divider.svg" width="100%" alt="" />
 
 <div align="center">
 
