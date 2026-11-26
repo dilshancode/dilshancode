@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 185" width="360" height="185">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; }
+    .bar { fill: #161b22; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 11.5px; }
+    .muted { fill: #8b949e; }
+    .green { fill: #00f5a0; }
+    .cyan { fill: #38bdf8; }
+    .text { fill: #c9d1d9; }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @keyframes pulse { 0%, 100% { opacity: 0.35; r: 3; } 50% { opacity: 1; r: 4.5; } }
+    .cursor { animation: blink 1s infinite; fill: #00f5a0; }
+    .radar { animation: pulse 2s ease-in-out infinite; fill: #00f5a0; }
+  </style>
+  <rect class="bg" x="1" y="1" width="358" height="183" rx="10" />
+  <path class="bar" d="M 2 11 Q 2 2 11 2 L 349 2 Q 358 2 358 11 L 358 28 L 2 28 Z" />
+  <circle cx="18" cy="15" r="4.5" fill="#ff5f56" />
+  <circle cx="34" cy="15" r="4.5" fill="#ffbd2e" />
+  <circle cx="50" cy="15" r="4.5" fill="#27c93f" />
+  <text class="mono muted" x="125" y="19">kali — bash — sec</text>
+  <circle class="radar" cx="340" cy="15" r="3.5" />
+
+  <text class="mono green" x="16" y="52">dilshancode@kali:~#</text>
+  <text class="mono text" x="152" y="52">./status.sh</text>
+
+  <text class="mono cyan" x="16" y="78">[+]</text>
+  <text class="mono text" x="44" y="78">Role   : Software Dev &amp; AppSec</text>
+
+  <text class="mono cyan" x="16" y="100">[+]</text>
+  <text class="mono text" x="44" y="100">Core   : Java • Spring • Flutter • React</text>
+
+  <text class="mono cyan" x="16" y="122">[+]</text>
+  <text class="mono text" x="44" y="122">Sec    : Wireshark • Burp • Cisco • THM</text>
+
+  <text class="mono green" x="16" y="146">[OK] All systems operational</text>
+
+  <text class="mono green" x="16" y="168">dilshancode@kali:~#</text>
+  <rect class="cursor" x="152" y="157" width="8" height="13" rx="1" />
+</svg>
