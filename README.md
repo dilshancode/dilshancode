@@ -89,8 +89,8 @@ Software developer and cybersecurity enthusiast focused on building secure, scal
 <div align="center">
 
 <p>
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=dilshancode&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=00f5a0&icon_color=00f5a0&text_color=c9d1d9&count_private=true" alt="Dilshan's GitHub Stats" />
-  <img height="175" src="https://streak-stats.demolab.com?user=dilshancode&background=0d1117&border=30363d&stroke=30363d&ring=00f5a0&fire=00f5a0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f5a0&sideLabels=c9d1d9&dates=8b949e" alt="Dilshan's GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dilshancode&show_icons=true&hide_rank=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=00f5a0&icon_color=00f5a0&text_color=c9d1d9&count_private=true" alt="Dilshan's GitHub Stats" />&nbsp;
+  <img height="165" src="https://streak-stats.demolab.com?user=dilshancode&background=0d1117&border=30363d&stroke=30363d&ring=00f5a0&fire=00f5a0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f5a0&sideLabels=c9d1d9&dates=8b949e" alt="Dilshan's GitHub Streak" />
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshancode&layout=compact&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=00f5a0&text_color=c9d1d9" alt="Top Languages" />
